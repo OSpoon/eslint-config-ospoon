@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-ospoon",
+  "version": "1.0.0",
+  "description": "ESLint Config for OSpoon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "OSpoon"
+  ],
+  "author": "zxin088@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSpoon/eslint-config-ospoon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OSpoon/eslint-config-ospoon/issues"
+  },
+  "homepage": "https://github.com/OSpoon/eslint-config-ospoon#readme"
+}
